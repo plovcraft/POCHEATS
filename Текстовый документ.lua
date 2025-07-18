@@ -3,7 +3,7 @@ local TweenService = game:GetService("TweenService")
 
 -- Список читов и их GitHub-ссылок
 local CheatScripts = {
-    ["grow a garden"] = "",
+    ["брукхевен"] = "",
     ["Hydrogen"] = "https://raw.githubusercontent.com/ваш_ник/репозиторий/main/hydrogen.lua",
     ["VapeV4"] = "https://raw.githubusercontent.com/ваш_ник/репозиторий/main/vapev4.lua",
     ["Pocheaters"] = "https://raw.githubusercontent.com/ваш_ник/репозиторий/main/pocheaters.lua"
