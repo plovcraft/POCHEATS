@@ -3,7 +3,7 @@ local TweenService = game:GetService("TweenService")
 
 -- Список читов и их GitHub-ссылок
 local CheatScripts = {
-    ["брукхевен"] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/plovcraft/POCHEATS/main/Brookhaven.lua"))()",
+    ["Brookhaven"] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/plovcraft/POCHEATS/main/Brookhaven.lua"))()",
     ["Hydrogen"] = "https://raw.githubusercontent.com/ваш_ник/репозиторий/main/hydrogen.lua",
     ["VapeV4"] = "https://raw.githubusercontent.com/ваш_ник/репозиторий/main/vapev4.lua",
     ["Pocheaters"] = "https://raw.githubusercontent.com/ваш_ник/репозиторий/main/pocheaters.lua"
